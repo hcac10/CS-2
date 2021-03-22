@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="565d381a-53db-4c7e-9f71-6350a8bcec73" name="Default Changelist" comment="Working ChainingHashDictionary">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/caltech/cs2/datastructures/ChainingHashDictionary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/caltech/cs2/datastructures/ChainingHashDictionary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/caltech/cs2/datastructures/MoveToFrontDictionary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/caltech/cs2/datastructures/MoveToFrontDictionary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/caltech/cs2/textgenerator/NGram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/caltech/cs2/textgenerator/NGram.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="branch2" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
+  <component name="ProjectId" id="1XK347YIxKapXIO24KVytvTC4y5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.idea" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="edu.caltech.cs2.datastructures" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="edu.caltech.cs2.datastructures" />
+      <recent name="edu.caltech.cs2.interfaces" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ethan\Documents\devel\project05\.idea" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.B Tests">
+    <configuration name="A Tests" type="JUnit" factoryName="JUnit">
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="tags" />
+      <option name="PARAMETERS" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="wholeProject" />
+      </option>
+      <tag value="A" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="A+ Tests" type="JUnit" factoryName="JUnit">
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="tags" />
+      <option name="PARAMETERS" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="wholeProject" />
+      </option>
+      <tag value="A+" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="B Tests" type="JUnit" factoryName="JUnit">
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="tags" />
+      <option name="PARAMETERS" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="wholeProject" />
+      </option>
+      <tag value="B" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MoveToFrontDictionaryTests" type="JUnit" factoryName="JUnit" temporary="true">
+      <module name="project05-markov" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="uniqueId" />
+      <option name="PARAMETERS" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="wholeProject" />
+      </option>
+      <uniqueIds>
+        <uniqueId value="[engine:junit-jupiter]/[class:edu.caltech.cs2.datastructures.MoveToFrontDictionaryTests]" />
+      </uniqueIds>
+      <tag value="B" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NGramTests (1)" type="JUnit" factoryName="JUnit" temporary="true">
+      <module name="project05-markov" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="uniqueId" />
+      <option name="PARAMETERS" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="wholeProject" />
+      </option>
+      <uniqueIds>
+        <uniqueId value="[engine:junit-jupiter]/[class:edu.caltech.cs2.datastructures.NGramTests]" />
+      </uniqueIds>
+      <tag value="B" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NGramTests" type="JUnit" factoryName="JUnit" temporary="true">
+      <module name="project05-markov" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="uniqueId" />
+      <option name="PARAMETERS" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="wholeProject" />
+      </option>
+      <uniqueIds>
+        <uniqueId value="[engine:junit-jupiter]/[class:edu.caltech.cs2.datastructures.NGramTests]" />
+      </uniqueIds>
+      <tag value="B" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NGramTests.testCompareTo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="project05-markov" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.caltech.cs2.datastructures.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.caltech.cs2.datastructures" />
+      <option name="MAIN_CLASS_NAME" value="edu.caltech.cs2.datastructures.NGramTests" />
+      <option name="METHOD_NAME" value="testCompareTo(java.lang.String,java.lang.String,int)" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="PARAMETERS" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="wholeProject" />
+      </option>
+      <uniqueIds>
+        <uniqueId value="[engine:junit-jupiter]/[class:edu.caltech.cs2.datastructures.NGramTests]" />
+      </uniqueIds>
+      <tag value="B" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NGramTests.testEquals" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="project05-markov" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.caltech.cs2.datastructures.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.caltech.cs2.datastructures" />
+      <option name="MAIN_CLASS_NAME" value="edu.caltech.cs2.datastructures.NGramTests" />
+      <option name="METHOD_NAME" value="testEquals(java.lang.String,java.lang.String,boolean)" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="PARAMETERS" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="wholeProject" />
+      </option>
+      <uniqueIds>
+        <uniqueId value="[engine:junit-jupiter]/[class:edu.caltech.cs2.datastructures.NGramTests]" />
+      </uniqueIds>
+      <tag value="B" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.A Tests" />
+      <item itemvalue="JUnit.A+ Tests" />
+      <item itemvalue="JUnit.B Tests" />
+      <item itemvalue="JUnit.MoveToFrontDictionaryTests" />
+      <item itemvalue="JUnit.NGramTests (1)" />
+      <item itemvalue="JUnit.NGramTests" />
+      <item itemvalue="JUnit.NGramTests.testCompareTo" />
+      <item itemvalue="JUnit.NGramTests.testEquals" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MoveToFrontDictionaryTests" />
+        <item itemvalue="JUnit.NGramTests.testEquals" />
+        <item itemvalue="JUnit.NGramTests" />
+        <item itemvalue="JUnit.NGramTests.testCompareTo" />
+        <item itemvalue="JUnit.NGramTests (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="565d381a-53db-4c7e-9f71-6350a8bcec73" name="Default Changelist" comment="" />
+      <created>1580780764689</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580780764689</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Add test configs and external libraries">
+      <created>1580780859699</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1580780859699</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Working ChainingHashDictionary">
+      <created>1583289796722</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1583289796722</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add test configs and external libraries" />
+    <MESSAGE value="Working ChainingHashDictionary" />
+    <option name="LAST_COMMIT_MESSAGE" value="Working ChainingHashDictionary" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="243" y="78" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580781974083">
+      <screen x="0" y="0" width="1575" height="846" />
+    </state>
+    <state x="243" y="78" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1575.846/1920.-150.2101.1142@0.0.1575.846" timestamp="1580781974083" />
+    <state x="442" y="396" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1581214388658">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="442" y="396" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.23.1440.877@0.23.1440.877" timestamp="1581214388658" />
+    <state x="380" y="364" width="455" height="273" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1581214507515">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="380" y="364" width="455" height="273" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.23.1440.877@0.23.1440.877" timestamp="1581214507515" />
+    <state x="823" y="205" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1581215406588">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="823" y="205" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.900@0.0.1440.900" timestamp="1581215406588" />
+    <state x="413" y="45" key="CommitChangelistDialog2" timestamp="1583960766474">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="413" y="23" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1583289796218" />
+    <state x="452" y="18" key="CommitChangelistDialog2/0.0.1575.846/1920.-150.2101.1142@0.0.1575.846" timestamp="1580780859301" />
+    <state x="413" y="45" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1583960766474" />
+    <state width="1276" height="245" key="GridCell.Tab.0.bottom" timestamp="1583960739046">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="705" height="303" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1581978323173" />
+    <state width="1276" height="245" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1583960739046" />
+    <state width="1276" height="245" key="GridCell.Tab.0.center" timestamp="1583960739045">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="705" height="303" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1581978323169" />
+    <state width="1276" height="245" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1583960739045" />
+    <state width="1276" height="245" key="GridCell.Tab.0.left" timestamp="1583960739044">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="705" height="303" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1581978323168" />
+    <state width="1276" height="245" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1583960739044" />
+    <state width="1276" height="245" key="GridCell.Tab.0.right" timestamp="1583960739045">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="705" height="303" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1581978323172" />
+    <state width="1276" height="245" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1583960739045" />
+    <state width="705" height="303" key="GridCell.Tab.1.bottom" timestamp="1581978323175">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="705" height="303" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1581978323175" />
+    <state width="705" height="303" key="GridCell.Tab.1.center" timestamp="1581978323174">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="705" height="303" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1581978323174" />
+    <state width="705" height="303" key="GridCell.Tab.1.left" timestamp="1581978323173">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="705" height="303" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1581978323173" />
+    <state width="705" height="303" key="GridCell.Tab.1.right" timestamp="1581978323175">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="705" height="303" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1581978323175" />
+    <state x="220" y="44" key="SettingsEditor" timestamp="1583960689517">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="220" y="44" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1583960689517" />
+    <state x="348" y="185" key="Vcs.Push.Dialog.v2" timestamp="1583960544136">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="381" y="156" key="Vcs.Push.Dialog.v2/0.0.1575.846/1920.-150.2101.1142@0.0.1575.846" timestamp="1580780862209" />
+    <state x="348" y="185" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1583960544136" />
+    <state x="267" y="296" key="com.intellij.ide.util.TipDialog" timestamp="1583959673863">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="267" y="296" key="com.intellij.ide.util.TipDialog/0.23.1440.877@0.23.1440.877" timestamp="1583959673863" />
+    <state x="554" y="362" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1583289653268">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="554" y="362" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.900@0.0.1440.900" timestamp="1583289653268" />
+    <state x="606" y="340" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1575.846/1920.-150.2101.1142@0.0.1575.846" timestamp="1580781817797" />
+    <state x="545" y="297" key="export.test.results" timestamp="1583960703751">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="545" y="297" key="export.test.results/0.23.1440.877@0.23.1440.877" timestamp="1583960703751" />
+    <state x="726" y="96" width="673" height="708" key="find.popup" timestamp="1581978297327">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="726" y="96" width="673" height="708" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1581978297327" />
+    <state x="728" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1581390979271">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="728" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1581390979271" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/edu/caltech/cs2/textgenerator/NGram.java</url>
+          <line>77</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
